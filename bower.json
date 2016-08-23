@@ -1,0 +1,39 @@
+{
+    "name": "videojs-contrib-hls",
+    "version": "3.5.2",
+    "description": "Play back HLS with video.js, even where it's not natively supported",
+    "main": "dist/videojs-contrib-hls.min.js",
+    "keywords": [
+        "videojs-contrib-hls"
+        "HLS"
+        "videojs plugin"
+    ],
+    "ignore": [
+        "dist-test",
+        "docs",
+        "es5",
+        "examples",
+        "node_modules",
+        "src",
+        "test",
+        "utils",
+        ".editorconfig",
+        ".gitignore",
+        ".npmignore",
+        ".travis.yml",
+        "CHANGELOG.md",
+        "contrib.json",
+        "index.html",
+        "ISSUE_TEMPLATE.md",
+        "package.json",
+        "PULL_REQUEST_TEMPLATE.md"
+    ],
+    "dependencies": {
+       "video.js": "~5.11.2"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:giuseppeLeggero/videojs-contrib-hls.git"
+    }
+}
