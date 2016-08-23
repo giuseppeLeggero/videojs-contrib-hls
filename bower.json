@@ -4,8 +4,8 @@
     "description": "Play back HLS with video.js, even where it's not natively supported",
     "main": "dist/videojs-contrib-hls.min.js",
     "keywords": [
-        "videojs-contrib-hls"
-        "HLS"
+        "videojs-contrib-hls",
+        "HLS",
         "videojs plugin"
     ],
     "ignore": [
