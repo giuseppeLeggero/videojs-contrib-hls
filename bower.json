@@ -17,6 +17,7 @@
         "src",
         "test",
         "utils",
+        "scripts",
         ".editorconfig",
         ".gitignore",
         ".npmignore",
@@ -30,10 +31,5 @@
     ],
     "dependencies": {
        "video.js": "~5.11.2"
-    },
-
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:giuseppeLeggero/videojs-contrib-hls.git"
     }
 }
